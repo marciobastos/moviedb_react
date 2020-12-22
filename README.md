@@ -1,3 +1,7 @@
+## Projeto TheMovieAPI 
+  -Este projeto consiste no consumo da API do TheMovieDb, para o aprendizado de acesso a APIs.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
