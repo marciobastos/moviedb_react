@@ -1,5 +1,5 @@
 ## Projeto TheMovieAPI 
-  -Este projeto consiste no consumo da API do TheMovieDb, para o aprendizado de acesso a APIs.
+  -Este projeto consiste no acesso da API do TheMovieDb, para o aprendizado e prática do consumo de APIs.
 
 
 # Getting Started with Create React App
